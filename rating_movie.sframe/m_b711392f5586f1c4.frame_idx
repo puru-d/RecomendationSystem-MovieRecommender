@@ -1,0 +1,13 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=3
+nrows=20000263
+[column_names]
+0000=userId
+0001=title
+0002=rating
+[column_files]
+0000=m_b711392f5586f1c4.sidx:0
+0001=m_b711392f5586f1c4.sidx:1
+0002=m_b711392f5586f1c4.sidx:2
